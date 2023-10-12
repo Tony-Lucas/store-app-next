@@ -1,0 +1,31 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    overflow-y: hidden;
+}
+
+@font-face {
+    font-family: "Regular";
+    src: url("../fonts/OpenSans-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Medium";
+    src: url("../fonts/OpenSans-Medium.ttf");
+}
+
+@font-face {
+    font-family: "Semibold";
+    src: url("../fonts/OpenSans-SemiBold.ttf");
+}
+
+@font-face {
+    font-family: "Bold";
+    src: url("../fonts/OpenSans-Bold.ttf");
+}
+
+@font-face {
+    font-family: "Extrabold";
+    src: url("../fonts/OpenSans-ExtraBold.ttf");
+}
